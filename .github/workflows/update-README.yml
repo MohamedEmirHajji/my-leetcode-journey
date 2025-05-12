@@ -1,0 +1,37 @@
+name: Update README on Push
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Python 3.x
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Run generate_readme.py
+        run: python generate_readme.py
+
+      - name: Commit and push changes
+        run: |
+          # Configure Git
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Only commit if there are changes
+          git add README.md
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: auto-update README [skip ci]"
+            git push
+          else
+            echo "No changes to README.md"
+          fi
