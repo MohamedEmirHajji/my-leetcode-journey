@@ -14,7 +14,7 @@ def generate_file_table():
             metadata = json.load(f)
         problem_details = get_problem_details(metadata['name'])
         name = f"[{metadata['name']}]({metadata['url']})"
-        solution = f"[Python](./solved_problems/{solved_problem}/solution.py)"
+        solution = f"[{metadata['language']}](./solved_problems/{solved_problem}/solution.py)"
         difficulty = problem_details['difficulty']
         tags = ', '.join(problem_details['tags'])
         submission = f"[Link]({metadata['submission']})"
