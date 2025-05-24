@@ -6,6 +6,7 @@ import requests
 def generate_file_table():
     solved_problems_directory = "solved_problems"
     solved_problems_list = [f for f in os.listdir(solved_problems_directory) if os.path.isdir(os.path.join(solved_problems_directory, f))]
+    solved_problems_list = sorted(solved_problems_list, key=lambda problem_directory: problem_directory.split('_')[0])
     rows = ["| Problem | Solution                                                        | Difficultly | Tags | Submission | Date         |",
             "|---------|-----------------------------------------------------------------|-------------|------|------------|--------------|"]
     for solved_problem in solved_problems_list:
