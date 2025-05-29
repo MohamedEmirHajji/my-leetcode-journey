@@ -14,5 +14,6 @@ In this GitHub repository, I will document my experience as I tackle LeetCode ch
 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Python](./solved_problems/0002_valid_anagram/solution.py) | Easy | Hash Table, String, Sorting | [Link](https://leetcode.com/problems/valid-anagram/submissions/1643259241/) | ✅ 24-05-2025 |
 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./solved_problems/0003_two_sum/solution.py) | Easy | Array, Hash Table | [Link](https://leetcode.com/problems/two-sum/submissions/1643456330/) | ✅ 24-05-2025 |
 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python](./solved_problems/0004_group_anagrams/solution.py) | Medium | Array, Hash Table, String, Sorting | [Link](https://leetcode.com/problems/group-anagrams/submissions/1644173307/) | ✅ 25-05-2025 |
+| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Python](./solved_problems/0005_top_k_frequent/solution.py) | Medium | Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect | [Link](https://leetcode.com/problems/top-k-frequent-elements/submissions/1645328223/) | ✅ 26-05-2025 |
 <!-- SOLVED_PROBLEMS_TABLE_END -->
 
