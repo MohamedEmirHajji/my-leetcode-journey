@@ -17,7 +17,7 @@ def generate_file_table():
         name = f"[{metadata['name']}]({metadata['url']})"
         solution = f"[{metadata['language']}](./solved_problems/{solved_problem}/solution.py)"
         difficulty = problem_details['difficulty']
-        tags = ', '.join(problem_details['tags'])
+        tags = ', '.join(problem_details['tags'][:3])
         submission = f"[Link]({metadata['submission']})"
         date = "✅ " + metadata['date']
         rows.append(f"| {name} | {solution} | {difficulty} | {tags} | {submission} | {date} |")
