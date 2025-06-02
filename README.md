@@ -19,5 +19,6 @@ In this GitHub repository, I will document my experience as I tackle LeetCode ch
 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Python](./solved_problems/0007_valid_palindrome/solution.py) | Easy | Two Pointers, String | [Link](https://leetcode.com/problems/valid-palindrome/submissions/1648372363/) | ✅ 29-05-2025 |
 | [Two Sum II Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Python](./solved_problems/0008_two_integer_sum_ii/solution.py) | Medium | Array, Two Pointers, Binary Search | [Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/1649260658/) | ✅ 30-05-2025 |
 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](./solved_problems/0009_binary_search/solution.py) | Easy | Array, Binary Search | [Link](https://leetcode.com/problems/binary-search/submissions/1651074701/) | ✅ 01-06-2025 |
+| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](./solved_problems/0010_valid_parentheses /solution.py) | Easy | String, Stack | [Link](https://leetcode.com/problems/valid-parentheses/submissions/1652055214/) | ✅ 02-06-2025 |
 <!-- SOLVED_PROBLEMS_TABLE_END -->
 
