@@ -21,5 +21,6 @@ In this GitHub repository, I will document my experience as I tackle LeetCode ch
 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](./solved_problems/0009_binary_search/solution.py) | Easy | Array, Binary Search | [Link](https://leetcode.com/problems/binary-search/submissions/1651074701/) | ✅ 01-06-2025 |
 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](./solved_problems/0010_valid_parentheses/solution.py) | Easy | String, Stack | [Link](https://leetcode.com/problems/valid-parentheses/submissions/1652055214/) | ✅ 02-06-2025 |
 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Python](./solved_problems/0011_evaluate_reverse_polish_notation/solution.py) | Medium | Array, Math, Stack | [Link](https://leetcode.com/problems/evaluate-reverse-polish-notation/submissions/1654198558/) | ✅ 05-06-2025 |
+| [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Python](./solved_problems/0012_daily_temperatures/solution.py) | Medium | Array, Stack, Monotonic Stack | [Link](https://leetcode.com/problems/daily-temperatures/submissions/1655169907/) | ✅ 06-06-2025 |
 <!-- SOLVED_PROBLEMS_TABLE_END -->
 
