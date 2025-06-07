@@ -22,5 +22,6 @@ In this GitHub repository, I will document my experience as I tackle LeetCode ch
 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](./solved_problems/0010_valid_parentheses/solution.py) | Easy | String, Stack | [Link](https://leetcode.com/problems/valid-parentheses/submissions/1652055214/) | ✅ 02-06-2025 |
 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Python](./solved_problems/0011_evaluate_reverse_polish_notation/solution.py) | Medium | Array, Math, Stack | [Link](https://leetcode.com/problems/evaluate-reverse-polish-notation/submissions/1654198558/) | ✅ 05-06-2025 |
 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Python](./solved_problems/0012_daily_temperatures/solution.py) | Medium | Array, Stack, Monotonic Stack | [Link](https://leetcode.com/problems/daily-temperatures/submissions/1655169907/) | ✅ 06-06-2025 |
+| [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Python](./solved_problems/0013_powx_n/solution.py) | Medium | Math, Recursion | [Link](https://leetcode.com/problems/powx-n/submissions/1657035220/) | ✅ 07-06-2025 |
 <!-- SOLVED_PROBLEMS_TABLE_END -->
 
