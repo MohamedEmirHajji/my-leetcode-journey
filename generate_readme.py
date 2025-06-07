@@ -1,5 +1,7 @@
 import json
 import os
+import re
+
 import requests
 
 
@@ -25,7 +27,8 @@ def generate_file_table():
 
 
 def get_problem_details(name):
-    title_slug = name.lower().replace(" ", "-")
+    cleaned_name = re.sub(r'[^A-Za-z0-9 ]+', '', name)
+    title_slug = cleaned_name.lower().replace(" ", "-")
     request = {
         "operationName": "getQuestionDetail",
         "query": "query getQuestionDetail($titleSlug: String!) { question(titleSlug: $titleSlug) { questionId title content difficulty likes dislikes exampleTestcases topicTags { name } } }",
