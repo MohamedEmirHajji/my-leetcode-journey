@@ -25,5 +25,6 @@ In this GitHub repository, I will document my experience as I tackle LeetCode ch
 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Python](./solved_problems/0013_powx_n/solution.py) | Medium | Math, Recursion | [Link](https://leetcode.com/problems/powx-n/submissions/1657035220/) | ✅ 07-06-2025 |
 | [Plus One](https://leetcode.com/problems/plus-one/) | [Python](./solved_problems/0014_plus_one/solution.py) | Easy | Array, Math | [Link](https://leetcode.com/problems/plus-one/submissions/1658080654/) | ✅ 09-06-2025 |
 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Python](./solved_problems/0015_longest_consecutive_sequence/solution.py) | Medium | Array, Hash Table, Union Find | [Link](https://leetcode.com/problems/longest-consecutive-sequence/submissions/1660259016/) | ✅ 11-06-2025 |
+| [Car Fleet](https://leetcode.com/problems/car-fleet/) | [Python](./solved_problems/0016_car_fleet/solution.py) | Medium | Array, Stack, Sorting | [Link](https://leetcode.com/problems/car-fleet/submissions/1663324891/) | ✅ 13-06-2025 |
 <!-- SOLVED_PROBLEMS_TABLE_END -->
 
