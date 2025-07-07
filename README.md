@@ -28,5 +28,6 @@ In this GitHub repository, I will document my experience as I tackle LeetCode ch
 | [Car Fleet](https://leetcode.com/problems/car-fleet/) | [Python](./solved_problems/0016_car_fleet/solution.py) | Medium | Array, Stack, Sorting | [Link](https://leetcode.com/problems/car-fleet/submissions/1663324891/) | ✅ 13-06-2025 |
 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Python](./solved_problems/0017_search_a_2d_matrix/solution.py) | Medium | Array, Binary Search, Matrix | [Link](https://leetcode.com/problems/search-a-2d-matrix/submissions/1667649310/) | ✅ 17-06-2025 |
 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python](./solved_problems/0018_search_in_rotated_sorted_array/solution.py) | Medium | Array, Binary Search | [Link](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/1684200876/) | ✅ 02-07-2025 |
+| [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](./solved_problems/0019_best_time_to_buy_and_sell_stock/solution.py) | Easy | Array, Dynamic Programming | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/1690085200/) | ✅ 07-07-2025 |
 <!-- SOLVED_PROBLEMS_TABLE_END -->
 
